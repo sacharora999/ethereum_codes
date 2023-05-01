@@ -8,5 +8,4 @@ contract mylocalcon
         return age;
 
     }
-
 }
