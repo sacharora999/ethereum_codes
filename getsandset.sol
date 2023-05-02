@@ -11,4 +11,5 @@ contract getandset{
     function setter(uint new_age) public{
         age = new_age;
     }
+
 }
