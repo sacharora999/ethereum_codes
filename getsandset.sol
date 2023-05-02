@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.4.16 <0.9.0;
 
+
+//For public state var, we don't need getter
+
 contract getandset{
 
     uint age = 20;
