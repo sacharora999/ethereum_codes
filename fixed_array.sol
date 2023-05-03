@@ -13,5 +13,4 @@ contract myarraycon{
     {
         return myarr.length;
     }
-
 }
